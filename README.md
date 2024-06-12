@@ -1,3 +1,4 @@
+# Intelligent Control Systems by Asst. Prof. Dr. Claudia F. Yaşar
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
 
